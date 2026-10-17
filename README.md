@@ -1,7 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6f42c1&height=200&section=header&text=Md%20Rakibul%20Hasan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Vibe%20Coder%20%7C%20Full%20Stack%20Dev%20%7C%20From%20Bangladesh&descAlignY=58&descSize=18" alt="Md Rakibul Hasan banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6f42c1&height=200&section=header&text=Md%20Rakibul%20Hasan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Vibe%20Coder%20%7C%20Full-Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descSize=18" alt="Md Rakibul Hasan banner" width="100%" />
 
 <a href="https://github.com/MdRakibul726">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Md+Rakibul+Hasan;A+passionate+Vibe+Coder+from+Bangladesh;Full+Stack+Developer+in+the+making;Undergraduate+student+%26+lifelong+learner" alt="Typing animation" />
