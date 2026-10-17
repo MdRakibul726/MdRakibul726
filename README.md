@@ -45,39 +45,35 @@
 <div align="center">
 
 <table>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=MdRakibul726&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub stats (stars, commits, PRs, issues)" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdRakibul726&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-    </td>
-  </tr>
-</table>
-
-</div>
-
-### 🔥 Contribution Streak
-
+ <!-- ===================== STATS & METRICS ===================== -->
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=MdRakibul726&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub contribution streak" />
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=MdRakibul726&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&v=2" alt="GitHub stats" width="100%" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdRakibul726&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&v=2" alt="Top languages" width="100%" />
+      </td>
+    </tr>
+  </table>
 
-</div>
+  <!-- Contribution Streak -->
+  <p align="center">
+    <img src="https://streak-stats.demolab.com/?user=MdRakibul726&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&v=2" alt="GitHub contribution streak" />
+  </p>
 
-### 📈 Contribution Activity Graph
+  <!-- Contribution Activity Heatmap (Rock-solid, no 402 error) -->
+  <h3>📈 Contribution Activity Graph</h3>
+  <p align="center">
+    <img src="https://ghchart.rshah.org/38bdf8/MdRakibul726" alt="MdRakibul726's Contribution Graph" width="100%" />
+  </p>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MdRakibul726&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&area_color=bf91f3&hide_border=true" alt="Contribution activity graph" width="100%" />
-
-</div>
-
-### 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=MdRakibul726&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="GitHub trophies" />
+  <!-- GitHub Trophies (Working mirror, no 402 error) -->
+  <p align="center">
+    <img src="https://trophy.ryglcloud.net/?username=MdRakibul726&theme=tokyonight&margin-w=4&margin-h=4&no-bg=true" alt="GitHub trophies" />
+  </p>
 
 </div>
 
