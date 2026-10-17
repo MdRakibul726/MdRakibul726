@@ -86,8 +86,8 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/MdRakibul726/village90s">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MdRakibul726&repo=village90s&theme=tokyonight&hide_border=true" alt="Village90s" />
+      <a href="https://github.com/MdRakibul726/devpulse-ai">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MdRakibul726&repo=devpulse-ai&theme=tokyonight&hide_border=true" alt="devpulse-ai" />
       </a>
     </td>
     <td>
